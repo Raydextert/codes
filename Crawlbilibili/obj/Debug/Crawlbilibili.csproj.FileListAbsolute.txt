@@ -1,0 +1,9 @@
+E:\C#\Crawlbilibili\Crawlbilibili\bin\Debug\Crawlbilibili.exe.config
+E:\C#\Crawlbilibili\Crawlbilibili\bin\Debug\Crawlbilibili.exe
+E:\C#\Crawlbilibili\Crawlbilibili\bin\Debug\Crawlbilibili.pdb
+E:\C#\Crawlbilibili\Crawlbilibili\obj\Debug\Crawlbilibili.Form1.resources
+E:\C#\Crawlbilibili\Crawlbilibili\obj\Debug\Crawlbilibili.Properties.Resources.resources
+E:\C#\Crawlbilibili\Crawlbilibili\obj\Debug\Crawlbilibili.csproj.GenerateResource.Cache
+E:\C#\Crawlbilibili\Crawlbilibili\obj\Debug\Crawlbilibili.exe
+E:\C#\Crawlbilibili\Crawlbilibili\obj\Debug\Crawlbilibili.pdb
+E:\C#\Crawlbilibili\Crawlbilibili\obj\Debug\Crawlbilibili.csprojResolveAssemblyReference.cache
